@@ -1,0 +1,14 @@
+
+#path
+
+train: D:/24DLend/yolov5/score/images/train
+val: D:/24DLend/yolov5/score/images/val
+
+#number
+
+nc: 4
+
+#label
+
+
+names: ['prohibitory','danger','mandatory','other']
